@@ -1,6 +1,8 @@
+//kelas utama sederhana
 public class Hello {
     public static void main(String[] args) {
-        String msg = "Helio World";
+        //menampilkan pesan ke layar
+        String msg = "Hello World";
         System.out.println(message);
     }
 }
