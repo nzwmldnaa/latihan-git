@@ -1,3 +1,6 @@
 public class Hello {
-    String msg = "Helo, World!"; // salah e-nya 1
-System.out.println(msg);
+    public static void main(String[] args) {
+        String msg = "Hello, World!";
+        System.out.println(msg);
+    }
+}
