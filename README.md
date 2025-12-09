@@ -1,2 +1,4 @@
 # Latihan Git
-Ini adalah latihan Git sederhana untuk belajar commit dan push.
+Nama : Nazwa Maulidina
+Nim : 1324043
+Kelas : SA02
