@@ -1,6 +1,3 @@
 public class Hello {
-    public static void main(String[] args) {
-        //merapikan kode
-        System.out.println("Hello World");
-    }
-}
+    String msg = "Helo, World!"; // salah e-nya 1
+System.out.println(msg);
